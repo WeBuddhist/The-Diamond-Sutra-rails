@@ -11,10 +11,14 @@
             "id": "5d83cf39c0efd041",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Text/རྡོ་རྗེ་གཅོད་པ་རྩ་བ། .docx.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "རྡོ་རྗེ་གཅོད་པ་རྩ་བ། .docx"
             }
           }
         ]
@@ -193,7 +197,7 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "5d83cf39c0efd041",
   "lastOpenFiles": [
     "README.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
